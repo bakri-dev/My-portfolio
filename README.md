@@ -2,19 +2,19 @@
 
 Website portofolio pribadi yang responsif dan modern untuk menampilkan profil, keahlian, serta proyek-proyek yang telah dikerjakan.
 
-## 🚀 Fitur
+## Fitur
 
 - **Responsif:** Tampilan menyesuaikan berbagai ukuran layar (desktop, tablet, mobile).
 - **Desain Modern:** Menggunakan tata letak grid dan flexbox yang bersih.
 - **Navigasi Cepat:** Menu navigasi dengan *smooth scroll* antar bagian.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5:** Struktur konten web.
 - **CSS3:** Penataan gaya dan tata letak (*Flexbox & Grid*).
 - **JavaScript (ES6):** Interaktivitas sederhana.
 
-## 📂 Struktur Berkas
+## Struktur Berkas
 
 ```
 .
@@ -24,7 +24,7 @@ Website portofolio pribadi yang responsif dan modern untuk menampilkan profil, k
 └── README.md    # Dokumentasi proyek
 ```
 
-## ⚙️ Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 1. *Clone* repositori ini atau unduh berkas ZIP:
    ```bash
@@ -34,4 +34,4 @@ Website portofolio pribadi yang responsif dan modern untuk menampilkan profil, k
 3. Buka berkas `index.html` langsung di peramban (browser) favorit Anda.
 
 ---
-*Dibuat oleh [Nama Anda]*
+*Dibuat oleh BAKRI WEB DESIGN*
